@@ -1,3 +1,5 @@
-transformers==4.15.0
-torch==1.10.0
-regex==2021.11.10
+transformers
+torch
+regex
+accelerate
+sentence-transformers
